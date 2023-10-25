@@ -1,0 +1,13 @@
+{
+    "name": "Starting with Co-pilot",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ],
+            "settings": {
+                "editor.tabSize": 2
+            }
+        }
+    }
+}
